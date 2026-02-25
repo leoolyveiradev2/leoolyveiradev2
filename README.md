@@ -1,12 +1,15 @@
 # Olá, eu sou o leoollyveiradev! 👋
 
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em projetos incríveis.
-- 🌱 Aprendendo novas tecnologias diariamente.
+
 
 <div align="vertical-align">
   <a href="https://github.com/leoolyveiradev2"> 
     <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveiradev2&show_icons=true&theme=gotham"/>
+    
+### 🚀 Sobre mim
+- 🔭 Atualmente trabalhando em projetos incríveis.
+- 🌱 Aprendendo novas tecnologias diariamente.
+    
     <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoolyveiradev2&layout=compact&theme=gotham"/>
   </a>
 </div>
