@@ -1,4 +1,4 @@
-<div align="center">
+<div align="vertical-align">
   <h1> 🕹️ Player: leoolyveiradev2 </h1>
   <p><i>"Code is life, debug is afterlife"</i></p>
 </div>
