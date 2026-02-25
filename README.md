@@ -1,15 +1,17 @@
 # Olá, eu sou o leoollyveiradev! 👋
 
-<div align="vertical-align">
-  <a href="https://github.com/leoolyveiradev2">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=leoolyveiradev2&show_icons=true&theme=dark&border_radius=10&hide_rank=true&count_public=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoolyveiradev2&show_icons=true&theme=dark&border_radius=10&hide_rank=true&count_public=true&layout=compact"/>
-  </a>
-</div>
-
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos incríveis.
 - 🌱 Aprendendo novas tecnologias diariamente.
+
+<div align="vertical-align">
+  <a href="https://github.com/leoolyveiradev2"> 
+    <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoolyveiradev2&show_icons=true&theme=gotham"/>
+    <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoolyveiradev2&layout=compact&theme=gotham"/>
+  </a>
+</div>
+
+
 
   
 
