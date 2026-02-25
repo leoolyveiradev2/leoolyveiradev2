@@ -1,4 +1,4 @@
-# Fala, Dev! Sou <n><i>Leonardo Oliveira 🦁</i></n>
+# Fala, Dev! Sou <n><i>Leonardo Oliveira </i>🦁</n>
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos incríveis.
