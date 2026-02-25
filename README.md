@@ -1,4 +1,4 @@
-# Olá, eu sou o leoollyveiradev! 👋
+# Fala, Dev! Sou <strong>Leonardo Oliveira 🦁</strong>
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos incríveis.
