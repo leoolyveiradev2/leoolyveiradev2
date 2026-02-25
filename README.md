@@ -9,7 +9,7 @@
 --- 
 
 ### 🛠️ Tecnologias & Ferramentas
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,tailwind,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,vscode,figma,git)
 
 ### 📈 Contribuições
 ![Gráfico](https://github-readme-streak-stats.herokuapp.com/?user=leoolyveiradev2&theme=dark)
